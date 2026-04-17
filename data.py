@@ -31,3 +31,4 @@ def footer():
     # Menambahkan Copyright nama dan NPM
     st.markdown("---")
     st.caption('© 2024 | Farhat Chandra Permana - 184240007')
+# jokowi

@@ -12,8 +12,6 @@ menu = st.sidebar.radio("Pilih Halaman", ["Home", "Halaman Data"])
 
 if menu == "Home":
     judul()
-    st.info("Silakan pilih menu 'Halaman Data' di sidebar untuk melihat statistik.")
-
 elif menu == "Halaman Data":
     judul()
     show_data()
