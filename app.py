@@ -18,3 +18,5 @@ elif menu == "Halaman Data":
 
 # Memanggil footer di luar if-else agar muncul di seluruh halaman
 footer()
+
+#ini komenan baru
